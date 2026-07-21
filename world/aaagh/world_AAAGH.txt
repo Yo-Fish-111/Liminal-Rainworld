@@ -4,6 +4,7 @@ AAAGH_YoInfScroll2 : AAAGH_YoInfScroll1, AAAGH_YoInfScroll3
 AAAGH_YoInfScroll3 : AAAGH_YoInfScroll2, AAAGH_YoInfScroll4
 AAAGH_YoInfScroll4 : AAAGH_YoInfScroll3, AAAGH_YoInfScroll5
 AAAGH_YoInfScroll5 : AAAGH_YoInfScroll4, DISCONNECTED
+AAAGH_evil : DISCONNECTED
 END ROOMS
 
 CREATURES 
