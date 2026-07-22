@@ -1,5 +1,7 @@
 ROOMS
-evil : DISCONNECTED
+aaagh_evil : DISCONNECTED
+aaagh_alsoevil : DISCONNECTED
+aaagh_longupright : DISCONNECTED
 END ROOMS
 
 CREATURES 
