@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 187236
+FadePalette: 187237, 0, 0.05, 0.09, 0.13, 0.17, 0.21
+RoomSpecificScriptActive: ON

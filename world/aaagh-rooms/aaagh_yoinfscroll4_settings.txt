@@ -1,0 +1,5 @@
+Template: NONE
+Grime: 0.1086956
+Palette: 187236
+FadePalette: 187237, 0.75, 0.79, 0.83, 0.88, 0.92, 0.96
+RoomSpecificScriptActive: ON

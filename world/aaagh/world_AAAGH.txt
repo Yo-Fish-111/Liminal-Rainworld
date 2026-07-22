@@ -1,7 +1,13 @@
 ROOMS
-aaagh_evil : DISCONNECTED
 aaagh_alsoevil : DISCONNECTED
 aaagh_longupright : DISCONNECTED
+AAAGH_YoInfScroll1 : DISCONNECTED, AAAGH_YoInfScroll2
+AAAGH_YoInfScroll2 : AAAGH_YoInfScroll1, AAAGH_YoInfScroll3
+AAAGH_YoInfScroll3 : AAAGH_YoInfScroll2, AAAGH_YoInfScroll4
+AAAGH_YoInfScroll4 : AAAGH_YoInfScroll3, AAAGH_YoInfScroll5
+AAAGH_YoInfScroll5 : AAAGH_YoInfScroll4, DISCONNECTED
+AAAGH_evil : DISCONNECTED
+AAAGH_smallpooltest1 : DISCONNECTED
 END ROOMS
 
 CREATURES 
