@@ -1,6 +1,6 @@
 ROOMS
-aaagh_alsoevil : DISCONNECTED
-aaagh_longupright : DISCONNECTED
+AAAGH_alsoevil : DISCONNECTED
+AAAGH_longupright : DISCONNECTED
 AAAGH_YoInfScroll1 : DISCONNECTED, AAAGH_YoInfScroll2
 AAAGH_YoInfScroll2 : AAAGH_YoInfScroll1, AAAGH_YoInfScroll3
 AAAGH_YoInfScroll3 : AAAGH_YoInfScroll2, AAAGH_YoInfScroll4
