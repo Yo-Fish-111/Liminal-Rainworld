@@ -2,24 +2,29 @@ Template: NONE
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
+RumbleIntensity: 0
 WaveSpeed: 0.5
-WaveLength: 1
+WaveLength: 0.3043478
 WaveAmplitude: 0
 SecondWaveLength: 0.427536
 SecondWaveAmplitude: 0
-Clouds: 0.3478261
+Clouds: 0.4565217
 Grime: 1
+RandomItemDensity: 0.1086956
 Palette: 7
+EffectColorA: 1
+EffectColorB: 21
+TerrainLight: 1
 TerrainStainAmount: 1
-TerrainStainBrightness: 1
 TerrainStainHeight: 1
-TerrainWaves: 1
+TerrainWaves: 0
 TerrainEdgeRadius: 200
-TerrainGooHeight: 1
 TerrainGrain: 1
 TerrainDepth: 5
-TerrainSkyFade: 1
+TerrainSkyFade: 0.5652174
 TerrainPalette: NO PALETTE
-Effects: SSMusic-0.75-718-579, DayNight-0.5108696-20-20, BorderPushBack-0.2717391-11-34, LightBurn-0-106-111, Fog-0.6521739-75-137, SkyDandelions-0.4456522-182-112, AboveCloudsView-0.1847826--1000--1000, Advertisements-0.1195652-140-161, Dustpuffs-0.4130435-171-192, PixelShift-1-188-190, DustWave-0--1000--1000, 
-PlacedObjects: WeirdToy><2161.801><72.01523><0~100, SillyObject><1103.7><338.754><100~50~0.4717394~0.5~0.3~0.8~True~False~False~True~FluxWaterfall~SuperJumpInstruction~SuperStructureFuses~GhostSpot~7~2~3~3~Ur Gay~-51^17~-45^62~-191^-61~1^1~1^1~1^1~1^-1~12^-5, DataPearl><1734.055><66.8078><64~52~0~0~Misc~0, ProjectedStars><1964.071><629.9369><0~100, Rainbow><18.64832><400.1722><111~228~0~0~0,0,1,1,0.5760869,0.15, BlinkingFlower><1126.446><68.21194><, BlinkingFlower><1052.446><61.29028><, BlinkingFlower><978.0509><86.26855><, EnergySwirl><1442.056><498.7002><EffectColor1~-138~188~50~86.60254~0, LightSource><1440.577><498.9348><1~Environment~0~100~50~86.60254~0~1~None~0~0, LightBeam><1994.436><329.9265><-344~416~40~40~234~-213~195~-132~0.4~0~0~1~None~0~0, DeadSeedCob><3909.333><314.1399><, DeadSeedCob><3878.142><255.6684><, DeadSeedCob><3955.067><254.5814><, HangingPearls><2975.537><337.0533><, CellDistortion><1442.167><497.8609><424~571~50~86.60254~0.6956522~1~1~1, FloatingDebris><5857.844><220.4264><-894~91~1586639482~5~30~2.73913~3~34~-629|-210|4|54|128|182|213|385~29|52|-114|-114|-73|-104|-5|-58~1.2|0.25|0.25|-0.35|0.69|0.32|0.25|0.62~-1.21|-0.65|0|-0.75|-0.27|0.3999999|0|-1.23~-1.11|0|0|0.26|0.33|-0.59|0|0.82~Test Squares~1~0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0~0, 
+Effects: SSMusic-1-718-579, DayNight-0.5108696-20-20, LightBurn-0-295-300, Fog-0-75-137, SkyDandelions-0.4456522-441-594, Advertisements-0.1195652-354-214, Dustpuffs-0.4130435-308-0, PixelShift-1-327-108, 
+PlacedObjects: WeirdToy><2161.801><72.01523><0~100, DataPearl><1734.055><66.8078><64~52~0~0~Misc~0, BlinkingFlower><1126.446><68.21194><, BlinkingFlower><1052.446><61.29028><, BlinkingFlower><978.0509><86.26855><, EnergySwirl><1442.056><498.7002><EffectColor1~-138~188~50~86.60254~0, LightSource><1440.577><498.9348><1~Environment~0~100~50~86.60254~0~1~None~0~0, LightBeam><2683.436><254.9265><-748~559~619~178~392~-328~224~-32~0~1~0~1~None~0~0, DeadSeedCob><3909.333><314.1399><, DeadSeedCob><3863.142><265.6684><, DeadSeedCob><3955.067><254.5814><, HangingPearls><2975.537><337.0533><, CellDistortion><1442.167><497.8609><424~571~50~86.60254~0.6956522~1~1~1, FloatingDebris><5857.844><220.4264><-796~-146~1586639482~5~30~2.73913~3~34~-483|-210|-262|54|128|182|213|466~-91|52|248|-114|-73|-104|-5|-61~3.46|2.93|0.25|-0.35|0.69|0.32|0.25|0.62~-1.21|-0.56|0|-0.75|-0.27|0.3999999|0|-0.58~-0.01|-2.28|0|0.26|0.33|-0.59|0|0.82~Test Squares~1~0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0~0, SoftToy><3077.123><152.6544><0~100, DandelionPeach><2575.446><119.0394><0~0~2~3, DandelionPeach><2539.802><73.27558><0~0~2~3, DandelionPeach><2621.117><91.0879><0~0~2~3, DandelionPeach><1452.364><80.14642><109~45~2~3, DandelionPatch><258.3311><79.3172><-121~17, DandelionPatch><1012.197><69.71564><0~100, PlateTree><2349.183><113.1691><6~363, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><777.6931><489.3021><0.5108696><1, 
 FadePalette: 8, 0, 0.2065217, 0.4021739, 0.6086956, 0.8043478, 1
+WetTerrain: OFF
