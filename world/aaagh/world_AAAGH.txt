@@ -1,7 +1,7 @@
 ROOMS
 AAAGH_alsoevil : AAAGH_evil, DISCONNECTED
 AAAGH_longupright : DISCONNECTED, AAGH_renboeshelter
-AAAAGH_loss : DISCONNECTED
+AAAGH_loss : DISCONNECTED
 AAAGH_renboeshelter : AAAGH_longupright : SHELTER
 AAAGH_YoInfScroll1 : DISCONNECTED, AAAGH_YoInfScroll2
 AAAGH_YoInfScroll2 : AAAGH_YoInfScroll1, AAAGH_YoInfScroll3

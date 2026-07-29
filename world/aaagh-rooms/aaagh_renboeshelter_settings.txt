@@ -1,0 +1,14 @@
+Template: NONE
+Palette: 2
+EffectColorA: 4
+EffectColorB: 13
+TerrainLight: 0.9891304
+TerrainStainAmount: 0.9456522
+TerrainStainHeight: 0.5434783
+TerrainWaves: 0.4891304
+TerrainGooHeight: 0.7608696
+TerrainSkyFade: 0.7608696
+TerrainPalette: rot
+Effects: SkyBloom-0-63-195, LightBurn-0--20-154, Bloom-1--24-165, SkyDandelions-0.8043478-180-163, AboveCloudsView-0.01086957-410-146, PinkSky-0--38-111, ModifyEffectColorB-0.09782609,0.2608696,0.7173913--51-72, 
+PlacedObjects: Rainbow><210.8476><451.3705><-302~144~0~0~1,1,1,1,0.4456522,1, 
+FadePalette: 0, 0

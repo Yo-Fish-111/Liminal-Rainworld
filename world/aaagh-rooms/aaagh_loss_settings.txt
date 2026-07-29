@@ -1,0 +1,12 @@
+Template: NONE
+RainIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.0480924
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 29
+EffectColorA: 7
+EffectColorB: 3
+Effects: DustWave-0-20-20, SKLightning-1,0.1,0.1-30-30, SSMusic-0-40-40, ElectricDeath-0.1413043-50-50, SkyAndLightBloom-0.8043478-60-60, LightBurn-1-70-70, Desaturation-0-80-80, Hue-0.6413044-90-90, Brightness-0-100-100, 
+FadePalette: 6, 0.2934783
